@@ -1,0 +1,10 @@
+ipywidgets==8.1.2
+matplotlib==3.8.4
+pandas==2.2.2
+<<<<<<< HEAD
+torch==2.6.0
+=======
+torch==2.7.1
+>>>>>>> a27cfe87018f9b35ce67d22d8cae58fde69804d6
+torchvision==0.21.0
+tqdm==4.66.4
